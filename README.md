@@ -23,9 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartimalik0&show_icons=true&locale=en&layout=compact" alt="kartimalik0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartimalik0&show_icons=true&locale=en" alt="kartimalik0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartimalik0&" alt="kartimalik0" /></p>
 
 <!---
 kartikmalik0/kartikmalik0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
