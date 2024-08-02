@@ -11,6 +11,22 @@
 
 - 📫 How to reach me **kartik20044@gmail.com**
 
+
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <a href="https://github.com/kartikmalik0">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartikmalik0&theme=react-dark" alt="Contribution Graph" />
+  </a>
+</p>
+
+
+
+<h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=kartikmalik0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmalik0&theme=radical" alt="GitHub Streak" />
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kartik-malik0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-malik0" height="30" width="40" /></a>
