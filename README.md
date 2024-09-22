@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartimalik0&label=Profile%20views&color=0e75b6&style=flat" alt="kartimalik0" /> </p>
 
-- 🌱 I’m currently learning **BlockChain, Next.js,**
+- 🌱 I’m currently learning **Golang, Kafka, Redis**
 
 - 👨‍💻 All of my projects are available at [https://kartikmalik.tech](https://kartikmalik.tech)
 
