@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Next.js, Angular, TypeScript**
 
-- 📫 How to reach me **kartik20044@gmail.com**
+- 📫 How to reach me **kartikmalikdevofficial@gmail.com**
 
 
 <h2 align="center">📈 Contribution Graph</h2>
